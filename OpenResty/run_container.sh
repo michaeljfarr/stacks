@@ -1,0 +1,1 @@
+/usr/local/openresty/nginx/sbin/nginx -p `pwd`/var -c ../nginx.conf
